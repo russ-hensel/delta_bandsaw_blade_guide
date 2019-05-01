@@ -8,6 +8,9 @@ Sample Image:
 
   <img src=example_image.png width=500>
 
+Documentation:
+	Some, this file, a bit in the wiki, and of course look at the files especially the *.FCStd
+
 Documentation of the Model Tree:
 
   still to come
