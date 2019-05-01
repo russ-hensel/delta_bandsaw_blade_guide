@@ -1,5 +1,5 @@
 What:
-  Guide for the blade in a delta or delta like 14 inch bandsaw.
+	Guide for the blade in a delta or delta like 14 inch bandsaw.
   
 Status:
 	some problems, but works for me with smaller than cool blocks 
@@ -12,7 +12,13 @@ Documentation of the Model Tree:
 
   still to come
 
-
+------- Workflow for modification	--------
+	
+*  Model is highly parametric, mostly you just go in and modify the sketches.
+*  Chamfer may go bad and need to be redone, should be a quick but manual process do this last.
+*  Mesh and export the stl.	
+	
+------- stl i have used so far ------	
 guide_v1.stl
 
     print at 30% to get ideas on dim and printing
