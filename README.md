@@ -10,16 +10,16 @@ Sample Image:
 
 Documentation:
 	Some, this file, a bit in the wiki, and of course look at the files especially the *.FCStd
+``` 
+	Standard Disclaimer
+		If you have more than a casual interest in this project you should contact me and
+		see if the repository is actually in good shape.  I may well have improved software
+		and or documentation.  I will try to answer all questions and perhaps even clean up
+		what already exists.
+``` 
+* Documentation of the Model Tree: see the wiki
 
-Documentation of the Model Tree:
-
-  still to come
-
-------- Workflow for modification	--------
-	
-*  Model is highly parametric, mostly you just go in and modify the sketches.
-*  Chamfer may go bad and need to be redone, should be a quick but manual process do this last.
-*  Mesh and export the stl.	
+* Workflow for model modification: see the wiki		
 	
 ------- stl i have used so far ------	
 guide_v1.stl
